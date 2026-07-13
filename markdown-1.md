@@ -60,6 +60,7 @@ print("Hello World")
 [링크이름 구글](https://google.com)
 
 ### 이미지: 웹 이미지
+
 ![이미지 대체 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmkqeqFWx5Y24lnWjTRRgsTFH1yIKsaauKyNNMCwKFs_y2_4ojmusjlI&s=10)
 
 ### 이미지: 로컬 이미지
